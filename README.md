@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/ios/344/css.png" width="40px" />
   <img src="https://img.icons8.com/ios/344/html.png" width="40px" />
   <img src="https://img.icons8.com/ios/344/javascript-logo.png" width="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" width="40px" />
+  <img src="https://www.pinpng.com/pngs/m/204-2047356_materialize-css-materialize-css-logo-png-transparent-png.png" width="40px" />
   <img src="https://colinstodd.com/images/posts/matcss-min.png" width="65px" />
   <img src="https://img.icons8.com/ios/344/mysql.png" width="40px" />
 
