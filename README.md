@@ -5,10 +5,12 @@
   Em  aprendizado...
 </p>
 <p align="center"><img src="https://img.icons8.com/ios/344/php.png" width="40px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40px" />       <img src="https://cdn-icons-png.flaticon.com/512/2721/2721272.png" width="40px" />
+  <img src="https://img.icons8.com/ios/344/css.png" width="40px" />
+  <img src="https://img.icons8.com/ios/344/html.png" width="40px" />
+  <img src="https://img.icons8.com/ios/344/javascript-logo.png" width="40px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" width="40px" />
   <img src="https://colinstodd.com/images/posts/matcss-min.png" width="65px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/274/274439.png" width="40px" />
+  <img src="https://img.icons8.com/ios/344/mysql.png" width="40px" />
 
 </p>
 
@@ -23,6 +25,6 @@
 <p align="center">
   Pretendo...
 </p>
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="40px" /> 
+<p align="center"><img src="https://img.icons8.com/external-bartama-outline-64-bartama-graphic/344/external-JAVA-file-formats-outline-bartama-outline-64-bartama-graphic.png" width="40px" /> 
 <img src="https://cdn-icons-png.flaticon.com/512/1822/1822921.png" width="40px" /></p>
 
