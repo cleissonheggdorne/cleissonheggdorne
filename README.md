@@ -16,8 +16,8 @@
   Trabalho...
 </p>
 <p align="center">
-<img src="  https://cdn-icons-png.flaticon.com/512/3161/3161115.png" width="40px" />
- <img src="  https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40px" />
+<img src="https://img.icons8.com/ios/344/sql.png" width="40px" />
+ <img src="https://img.icons8.com/ios/344/postgreesql.png" width="40px" />
 
 <p>
 <p align="center">
