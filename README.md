@@ -4,9 +4,10 @@
 <p align="center">
   Em  aprendizado...
 </p>
-<p align="center"><img src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721635.png?token=exp=1650587404~hmac=acf058836f9b98448c92ae7f64f194d3" width="40px" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40px" />  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721272.png" width="40px" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" width="40px" />
-  <img src="  https://www.pinpng.com/pngs/m/204-2047356_materialize-css-materialize-css-logo-png-transparent-png.png" width="65px" />
+<p align="center"><img src="https://img.icons8.com/ios/344/php.png" width="40px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40px" />       <img src="https://cdn-icons-png.flaticon.com/512/2721/2721272.png" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" width="40px" />
+  <img src="https://colinstodd.com/images/posts/matcss-min.png" width="65px" />
   <img src="https://cdn-icons-png.flaticon.com/512/274/274439.png" width="40px" />
 
 </p>
