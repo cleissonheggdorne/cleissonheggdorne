@@ -14,7 +14,7 @@
   <img src="https://miro.medium.com/max/743/1*vBaeAw41XveYAWI7_mqGxg.jpeg" width="70px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png" width="70px"/>
   <img src="https://nsfocusglobal.com/wp-content/uploads/2019/04/apachetomcat.jpg" width="70px"/>
-  <img src="  https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="70px"/>
+  <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="70px"/>
 </p>
 
 <p align="center">
