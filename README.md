@@ -14,9 +14,9 @@
   <img src="https://miro.medium.com/max/743/1*vBaeAw41XveYAWI7_mqGxg.jpeg" width="70px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png" width="70px"/>
   <img src="https://nsfocusglobal.com/wp-content/uploads/2019/04/apachetomcat.jpg" width="70px"/>
-  <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="70px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="70px"/>
-  <img src="https://images.tute.io/media/topics/icons/jpa.png" width="70px"/>
+  <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="90px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="90px"/>
+  <img src="https://images.tute.io/media/topics/icons/jpa.png" width="80px"/>
 
 </p>
 
