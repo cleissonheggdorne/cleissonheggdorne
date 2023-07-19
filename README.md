@@ -6,7 +6,7 @@
 <p align="center"><img src="https://media3.giphy.com/media/wvQIqJyNBOCjK/giphy.gif?cid=ecf05e472xnza9gnsucrckd1ysswy1skppuduan618uqwe9o&amp;rid=giphy.gif&amp;ct=g" /></p>
 
 <p align="center">
-  Em  aprendizado...
+  Conhecimentos
 </p>
 <p align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="70px" />
