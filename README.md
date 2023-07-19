@@ -18,11 +18,18 @@
   <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="90px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="90px"/>
   <img src="https://images.tute.io/media/topics/icons/jpa.png" width="80px"/>
-
+</p>
+<p align="center">
+  Usando um pouquinho mais
+</p>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="70px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="70px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="70px" />
 </p>
 
 <p align="center">
-  Trabalho...
+  Uso no Trabalho...
 </p>
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="70px" />
@@ -36,11 +43,3 @@
   <img src="https://colinstodd.com/images/posts/matcss-min.png" width="70px" />
   <img src="https://freepngimg.com/download/android/58550-mobile-development-android-studio-app-free-download-image.png" width="70px" />
 
-<p align="center">
-  Pretendo me aprofundar:
-</p>
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="70px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="70px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="70px" />
-</p>
