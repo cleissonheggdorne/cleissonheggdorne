@@ -9,6 +9,7 @@
   Em  aprendizado...
 </p>
 <p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="70px" />
   <img src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" width="70px" />
   <img src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png" width="70px"/>
   <img src="https://miro.medium.com/max/743/1*vBaeAw41XveYAWI7_mqGxg.jpeg" width="70px" />
@@ -32,7 +33,6 @@
   Possuo conhecimento intermediário sobre:
 </p>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="70px" />
   <img src="https://colinstodd.com/images/posts/matcss-min.png" width="70px" />
   <img src="https://freepngimg.com/download/android/58550-mobile-development-android-studio-app-free-download-image.png" width="70px" />
 
