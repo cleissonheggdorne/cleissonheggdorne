@@ -26,6 +26,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="70px" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="70px" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="70px" />
+    <img src="https://colinstodd.com/images/posts/matcss-min.png" width="70px" />
 </p>
 
 <p align="center">
@@ -40,6 +41,5 @@
   Possuo conhecimento intermediário sobre:
 </p>
 <p align="center">
-  <img src="https://colinstodd.com/images/posts/matcss-min.png" width="70px" />
   <img src="https://freepngimg.com/download/android/58550-mobile-development-android-studio-app-free-download-image.png" width="70px" />
 
