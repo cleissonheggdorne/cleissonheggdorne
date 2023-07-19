@@ -18,6 +18,8 @@
   <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" width="90px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" width="90px"/>
   <img src="https://images.tute.io/media/topics/icons/jpa.png" width="80px"/>
+    <img src="https://freepngimg.com/download/android/58550-mobile-development-android-studio-app-free-download-image.png" width="70px" />
+
 </p>
 <p align="center">
   Usando um pouquinho mais
@@ -37,9 +39,5 @@
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="70px" />
 
 </p>
-<p align="center">
-  Possuo conhecimento intermediário sobre:
-</p>
-<p align="center">
-  <img src="https://freepngimg.com/download/android/58550-mobile-development-android-studio-app-free-download-image.png" width="70px" />
+
 
